@@ -153,7 +153,7 @@ ul
  margin-right: 0.7rem;
 }
 
-@media (min-width:375px)
+@media (min-width:640px)
 {
     .container {
         display: grid;
